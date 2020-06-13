@@ -6,4 +6,4 @@ htmlcov/
 .pytest_cache/
 build/
 dist/
-tregex.egg-info
+treg.egg-info
