@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="treg",
-    version="0.0.1",
+    version="0.0.2",
     author="Raphael Bögel",
     author_email="raphael.boegel@gmail.com",
     description="treg utilizes trie structured regex patterns to search texts "
