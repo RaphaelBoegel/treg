@@ -6,4 +6,5 @@ htmlcov/
 .pytest_cache/
 build/
 dist/
-treg.egg-info
+treg.egg-info/
+.coverage
