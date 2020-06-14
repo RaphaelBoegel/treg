@@ -1,4 +1,4 @@
-# treg 0.0.2
+# treg 0.0.3
 
 treg utilizes trie structured regex patterns to search texts for a potientially large number of words and phrases.
 
